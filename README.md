@@ -9,7 +9,7 @@ Currently Stable. Allows user to login to an IPB based forum.
 
 Usage
 ==========
-http://yourdomain.com/api.php?name=<yourusername>&password=<yourpassword>
+http://yourdomain.com/api.php?name=(your username)&password=(your password)
 
 Requirements
 ==========
