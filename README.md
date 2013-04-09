@@ -1,6 +1,6 @@
 IPBUserAPI
 ==========
-IPB User API is an api that was designed for use in The Elite Patch in conjunction with an IPB based forum. 
+IPB User API is an api that was designed for use in The Elite Patch in conjunction with an IPB based forum. Currently it allows a user to authenticate using an ipb forum login. This will be updated often and future updates include the ability to get an avatar, and specific details about a user. This API may be useful when one wants to interface their forums with a program written in a different language.. 
 
 Changelog
 ==========
